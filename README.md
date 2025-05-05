@@ -13,7 +13,7 @@ To initialize a new Rust project, run the following command:
 
 ```bash
 cargo init --name trust
-```
+``` 
 
 This will create a new Rust project named `trust`.
 
